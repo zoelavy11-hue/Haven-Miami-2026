@@ -1,6 +1,0 @@
-[submodule "Haven-Bullet-Hell-Workshop-Code"]
-	path = Haven-Bullet-Hell-Workshop-Code
-	url = https://github.com/zoelavy11-hue/Haven-Bullet-Hell-Workshop-Code
-[submodule "path/to/folder"]
-	path = path/to/folder
-	url = https://github.com/zoelavy11-hue/Haven-Bullet-Hell-Workshop-Code.git
